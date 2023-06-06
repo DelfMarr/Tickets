@@ -1,0 +1,46 @@
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+ 
+  
+  footer {
+      background-color: rgb(54, 54, 108);
+      margin-top: 20px;
+  }
+  
+  .navFooter a:hover {
+   border-radius: 10px;
+   cursor: pointer;
+   background-color: rgb(15, 15, 62);
+  }  
+  
+   
+  .icon-prev-next {
+    display: none;
+  }
+  
+  
+    .oradores {
+      text-align: center;
+      padding: 10px;
+    }
+  
+    
+  
+    
+    .btn btn-primary {
+      color: green;
+    }
+
+    .card {
+      text-align: center;
+
+
+   }
+
+   .card yellow-card {
+    text-align: center;
+    border: yellow;
+   }
